@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+If it aint broke, dont fix it- Mahatma Ghandi
 Use the left arrow to go back!
